@@ -1,0 +1,14 @@
+[2023-09-12 13:08:58,626] A006-01283.local/INFO/locust_test_load: ......... Initiating Load Test .......
+[2023-09-12 13:08:58,627] A006-01283.local/INFO/locust.runners: Ramping to 25 users at a rate of 5.00 per second
+[2023-09-12 13:09:02,210] A006-01283.local/INFO/locust_test_load: Login successful with user : perf_user_4@gmail.com
+[2023-09-12 13:09:02,323] A006-01283.local/INFO/locust_test_load: Login successful with user : perf_user_5@gmail.com
+[2023-09-12 13:09:02,599] A006-01283.local/INFO/locust_test_load: Login successful with user : perf_user_3@gmail.com
+[2023-09-12 13:09:02,642] A006-01283.local/INFO/locust.runners: All users spawned: {"UserGroupA": 5, "UserGroupB": 20} (25 total users)
+[2023-09-12 13:09:04,114] A006-01283.local/INFO/locust_test_load: fetch my-account user address perf_user_5@gmail.com
+[2023-09-12 13:09:04,146] A006-01283.local/INFO/locust_test_load: Login successful with user : perf_user_2@gmail.com
+[2023-09-12 13:09:04,506] A006-01283.local/INFO/locust_test_load: fetch my-account user address perf_user_3@gmail.com
+[2023-09-12 13:09:04,817] A006-01283.local/INFO/locust_test_load: Login successful with user : perf_user_1@gmail.com_wrong
+[2023-09-12 13:09:07,906] A006-01283.local/INFO/locust_test_load: fetch my-account user address perf_user_5@gmail.com
+[2023-09-12 13:09:13,183] A006-01283.local/INFO/locust.main: --run-time limit reached, shutting down
+[2023-09-12 13:09:13,186] A006-01283.local/INFO/locust_test_load: ........ Load Test Completed ........
+[2023-09-12 13:09:13,187] A006-01283.local/INFO/locust.main: Shutting down (exit code 0)
